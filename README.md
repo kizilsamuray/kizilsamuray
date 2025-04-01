@@ -3,8 +3,7 @@
 
 
 - 📫 Bana nasıl ulaşabilirsiniz **akersemih07@gmail.com**
-<p align="left">
-  - 🔭 Şu anda [duvarcoffee](http://duvarcoffee.com.tr) üzerinde çalışıyorum
+- 🔭 Şu anda [duvarcoffee](http://duvarcoffee.com.tr) üzerinde çalışıyorum
 </p>
 
 
