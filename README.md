@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm semih</h1>
-<h3 align="center">A passionate frontend developer from TR</h3>
+<h3 align="center">beginner pc user</h3>
 
 
 - 📫 Bana nasıl ulaşabilirsiniz **akersemih07@gmail.com**
